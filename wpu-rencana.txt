@@ -1,3 +1,4 @@
 rencana
 -bikin aplikasi web
 -bikin bikinan
+-bikin bikinan 2
