@@ -1,5 +1,3 @@
 rencana
 -bikin aplikasi web
--belajar bikin bikinan
--bikin bikinan 2
--belajar bikin
+-belajar 
